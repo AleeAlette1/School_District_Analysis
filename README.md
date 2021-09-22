@@ -6,11 +6,11 @@ After the school board leans that the original student_completee.csv file shows 
 ## Results
 * How is the district summary affected?
 ** After taking out Thomas High School 9th grade scores:
-*** The average math scores decreased from 79 to 78.9
-*** The average reading scorers weren't affected. 
-*** The percentage of students passing math decreased from 75% to 74%
-*** The percentage of students passing reading decreased from 86% to 85%
-*** The overall percentage of students passing decreased from 65% to 64%
+   * The average math scores decreased from 79 to 78.9
+   * The average reading scorers weren't affected. 
+   * The percentage of students passing math decreased from 75% to 74%
+   * The percentage of students passing reading decreased from 86% to 85%
+   * The overall percentage of students passing decreased from 65% to 64%
  
 * How is the school summary affected?
   * After taking out Thomas High School 9th grade scores: 
