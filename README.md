@@ -32,10 +32,10 @@ After the school board leans that the original student_completee.csv file shows 
   *   There was not change according to scored based on school size because Thomas High School is a medium sized school. 
   * Scores by school type
   *   Thomas High School is a Charter school. The following changes occured at the Charter School type:
-  *     The average math score decreased from 83.47 to 83.46
-  *     The average reading score increased very little from 83.89 to 83.9
-  *     The percentage of students passing math decreased from 93.6% to 90.3%
-  *     The percentage of students passing reading decreased from 96.6% to 93.1%
-  *     The overall percentage of students passing decreased from 90.4% to 87.2%
+   * The average math score decreased from 83.47 to 83.46
+   * The average reading score increased very little from 83.89 to 83.9
+   * The percentage of students passing math decreased from 93.6% to 90.3%
+   * The percentage of students passing reading decreased from 96.6% to 93.1%
+   * The overall percentage of students passing decreased from 90.4% to 87.2%
 
 ## Summary
