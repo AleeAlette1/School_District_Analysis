@@ -4,13 +4,13 @@
 After the school board leans that the original student_completee.csv file shows evidence of academic dishonesty with the readinng and math scores of Thomas High School's 9th grade class the school board has asked Maria for help. Maria asks you to replace the math and reading scores in question with NaNs - all other scores should stay the same. Once the 9th grade Thomas High School's math and reading scores are replace, Maria would like you to repeat an earlier analysis and then write an analysis with the changes. 
 
 ## Results
-* How is the district summary affected?
+1. How is the district summary affected?
   * After taking out Thomas High School 9th grade scores:
-   * The average math scores decreased from 79 to 78.9
-   * The average reading scorers weren't affected. 
-   * The percentage of students passing math decreased from 75% to 74%
-   * The percentage of students passing reading decreased from 86% to 85%
-   * The overall percentage of students passing decreased from 65% to 64%
+    - The average math scores decreased from 79 to 78.9
+    - The average reading scorers weren't affected. 
+    - The percentage of students passing math decreased from 75% to 74%
+    - The percentage of students passing reading decreased from 86% to 85%
+    - The overall percentage of students passing decreased from 65% to 64%
  
 * How is the school summary affected?
   * After taking out Thomas High School 9th grade scores: 
