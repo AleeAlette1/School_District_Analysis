@@ -48,4 +48,5 @@ In summary, five changes occured to not only the school and the district, but al
 3. The percentage of students passing math decreased. 
 4. The percentage of students passing reading decreased
 5. The overall percentage of students passing decreased. 
+
 Overall we can see that Thomas High School saw the biggest drops in averages because the scores affect their direct results, but even so, removing one grades worth of scores is enough to shift the districts overall averages as well. 
